@@ -42,11 +42,27 @@ it show what food they have
 <img width="306" alt="Screenshot 1445-08-22 at 5 34 09 AM" src="https://github.com/maramnaif/Project-5/assets/123784913/3f49c9a6-f399-4771-bd47-0062373b158f">
 
 
-<img width="306" alt="Screenshot 1445-08-22 at 5 35 29 AM" src="https://github.com/maramnaif/Project-5/assets/123784913/14101dd6-93a6-46a2-9281-2de49d18aa24">
+<img width="313" alt="Screenshot 1445-08-22 at 1 48 49 PM" src="https://github.com/maramnaif/Project-5/assets/123784913/4a07f6e1-f8a4-4dbe-b3d1-b926e0d1a09b">
+
+
 
 AMC DAERA Page :
 
 <img width="312" alt="Screenshot 1445-08-22 at 5 35 59 AM" src="https://github.com/maramnaif/Project-5/assets/123784913/162f4eea-4570-49d5-9f26-7ebd5b3d37a1">
 
+
+
+
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_bloc: ^8.1.4
+  flutter_svg: ^1.1.6
+  glass: ^2.0.0+1
+  glassmorphism_ui: ^0.3.0
+  get_it: ^7.6.7
+  shared_preferences: ^2.2.2
+  iconify_flutter: ^0.0.5
 
 
